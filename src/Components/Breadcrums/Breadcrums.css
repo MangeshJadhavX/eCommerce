@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.breadcrumbs{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 14px;
+    font-weight: 500;
+    margin: 16px 90px;
+    color: #5e5e5e;
+    text-transform: capitalize;   
+}
